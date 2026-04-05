@@ -26,7 +26,7 @@ The system is designed to mirror real-world credit underwriting workflows — wi
 | Machine Learning | Scikit-learn (Logistic Regression, Random Forest) |
 | Visualisation (Python) | Matplotlib, Seaborn |
 | Business Dashboard | Microsoft Power BI |
-| Notebook Environment | Google Colab |
+| Notebook Environment | Google Colab/ Jupyter Notebook |
 | Data Format | CSV (Loan_Default.csv) |
 
 ---
