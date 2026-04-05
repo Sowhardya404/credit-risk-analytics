@@ -37,17 +37,19 @@ The system is designed to mirror real-world credit underwriting workflows — wi
 
 credit-risk-analytics/
 │
-├── Credit_Risk_Analytics_System.ipynb   # Full ML pipeline (EDA → Model → Risk → Export)
-├── Loan_Prediction.pbix                # Power BI dashboard (loads exported CSVs)
+├── notebooks/
+│   └── Credit_Risk_Analytics_System.ipynb   # Full ML pipeline (EDA → Model → Risk → Export)
+│
+├── dashboard/
+│   └── Loan_Prediction.pbix                # Power BI dashboard
 │
 ├── data/
-│   └── Loan_Default.csv               # Input dataset (place here)
+│   └── Loan_Default.csv                   # Input dataset
 │
 ├── final_outcome/
-│   ├── credit_risk_scores.csv        # Per-borrower predictions + risk tier
-│   └── risk_tier_summary.csv         # Aggregated KPI table for Power BI
+│   ├── credit_risk_scores.csv            # Predictions + risk tier
+│   └── risk_tier_summary.csv             # Aggregated KPIs
 │
-├── requirements.txt                  # Python dependencies for the project
 └── README.md
 ```
 
