@@ -1,0 +1,4 @@
+Risk_Level,Borrower_Count,Default_Rate_Pct,Avg_Probability_Pct,Avg_Loan_Amount_USD,Total_Exp_Loss_USD
+High Risk,3233,98.0,95.0,297827.0,918311989.0
+Low Risk,9484,6.0,26.0,408418.0,977682622.0
+Medium Risk,15277,20.0,40.0,254905.0,1524580423.0
