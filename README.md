@@ -143,7 +143,7 @@ The `.pbix` dashboard includes:
 
 **Sowhardya Biswas**
 
-- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/sowhardya-biswas-5abbb3205)
+- LinkedIn:[linkedin.com/in/yourprofile](www.linkedin.com/in/sowhardya-biswas-5abbb3205)
 - Email: `sowhardya.biswas2003@gmail.com`
 
 ---
