@@ -35,27 +35,6 @@ handling of data leakage, class imbalance, and business-interpretable outputs.
 
 ---
 
-## Project Structure
-
-credit-risk-analytics/
-│
-├── notebooks/
-│   └── Credit_Risk_Analytics_System.ipynb   # Full ML pipeline (EDA → Model → Risk → Export)
-│
-├── dashboard/
-│   └── Loan_Prediction.pbix                 # Power BI dashboard
-│
-├── data/
-│   └── Loan_Default.csv                     # Input dataset (see source below)
-│
-├── final_outcome/
-│   ├── credit_risk_scores.csv               # Per-borrower predictions + risk tier
-│   └── risk_tier_summary.csv                # Aggregated KPIs by risk tier
-│
-└── README.md
-
----
-
 ## Dataset
 
 **Source:** [Loan Default Dataset — Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset)  
